@@ -1,0 +1,58 @@
+.box{
+	width: 100vw;
+	height: 5vh;
+	background-color: #00ff00;
+}
+marquee{
+	background-color: red;
+	font-size: 30px;
+}
+.p1{
+	font-size: 20px;
+}
+video{
+	height: 700px;
+	width: 900px;
+	
+
+}
+.h1{
+	font-size: 60px;
+	color: red;
+	text-decoration: underline;
+	text-decoration-style: dotted;
+	text-decoration-color: green;
+}
+.h2{
+	font-size: 60px;
+	color:green;
+	text-decoration: underline;
+	text-decoration-color: red;
+	text-decoration-style: double;
+	margin-left: 600px;
+}
+.img1{
+	height: 500px;
+	width: 100vw;
+}
+.audio1{
+	font-size: 60px;
+	color: blue;
+	margin-top: 1px;
+
+}
+.h3{
+	font-size: 50px;
+	color: blue;
+	
+}
+.h4{
+	color:#ff0000;
+	text-align: center;
+	font-size: 40px;
+}
+.h5{
+	color: red;
+	font-size: 30px;
+	text-align: center;
+}
